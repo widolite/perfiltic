@@ -1,3 +1,19 @@
+# Inputs:
+# 1. Cama de Perro,001,100.00,2.00
+# 2. Juguete de Gato,001,300.00,8.00
+# 3. Piano,003,100.00,2.00
+# 4. Guitarra,003,300.00,8.00
+# 5. Anillo,000,100.00,2.00
+# 6. Otro,000,300.00,8.00
+
+#Outputs:
+# 1. Cama de Perro,146.67
+# 2. Juguete de Gato,506.15
+# 3. Piano,155.29
+# 4. Guitarra,535.92
+# 5. Anillo,132.00
+# 6. Otro,455.53
+
 from sys import stdin
 
 

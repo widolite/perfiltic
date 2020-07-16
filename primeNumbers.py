@@ -1,3 +1,16 @@
+# Input:
+# 1. 5
+# 2. 6
+# 3. 7
+# 4. 53
+
+# Salida:
+# 1. PRIMO
+# 2. NO_ES_PRIMO
+# 3. PRIMO
+# 4. PRIMO
+
+
 from sys import stdin
 
 
